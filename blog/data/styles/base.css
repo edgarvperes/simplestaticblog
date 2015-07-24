@@ -1,0 +1,39 @@
+
+.BlogTitle
+{
+  font-size:xx-large;
+}
+.PostTitle
+{
+  font-size:x-large;
+  color:#3333FF;
+}
+.PostDate
+{
+  font-size:small;
+  color:#777777;
+}
+.PostContent
+{
+
+}
+.IndexCell
+{
+  vertical-align: top;
+  left:0px; 
+  width:20%;
+}
+.MainCell
+{
+  border-right:1px solid black;
+}
+.MainTable
+{
+  width:100%;
+  border-top:1px solid black; 
+}
+.Footer
+{
+  font-size:x-small;
+  color:#777777;
+}
